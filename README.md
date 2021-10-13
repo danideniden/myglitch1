@@ -1,2 +1,5 @@
-# myglitch1
-y glitches
+### This is a React lifecycle lesson about
+
+- componentDidMount()
+- componentDidUpdate()
+- componentWillUpdate()
